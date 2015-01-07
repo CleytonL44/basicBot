@@ -190,7 +190,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
+            botName: "bot bem massa",
             language: "portuguese",
             chatLink: "https://rawgit.com/CleytonL44/basicBot/master/lang/pt.json",
             maximumAfk: 120,
